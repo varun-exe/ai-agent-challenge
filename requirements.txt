@@ -1,0 +1,6 @@
+langgraph
+groq
+pandas
+pytest
+pdfplumber
+dotenv
