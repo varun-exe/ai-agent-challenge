@@ -31,3 +31,6 @@ build/karbon-env/
 custom_parsers/
 *.pdf
 *.csv
+karbon-env/
+__pycache__/
+*.pyc
