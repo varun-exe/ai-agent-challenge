@@ -1,6 +1,6 @@
-langgraph
+langchain-groq
 groq
+python-dotenv
 pandas
-pytest
-pdfplumber
-dotenv
+tabula-py
+jpype1
