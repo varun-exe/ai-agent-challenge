@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Virtual environments
+karbon-env/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated parsers
+custom_parsers/
+
+# Data files
+*.pdf
+*.csv
+data/
+
+# IDE
+.vscode/
+.DS_Store
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/karbon-env/
+custom_parsers/
+*.pdf
+*.csv
